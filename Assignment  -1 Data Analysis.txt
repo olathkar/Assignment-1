@@ -1,0 +1,27 @@
+Assignment -1 [Data Analysis]
+
+Create a Google Survey Form -
+Problem Statement - COVID-19 and its impact on education, social life and 
+		    mental health of students
+
+Note –
+1. Choose the questions very carefully
+2. Ex – Region/Residence, Age, Time spent on Studies,Medium for Online Class
+Time spent on Fitness, Time spent on Self-Study
+
+3. Select questions which will be useful for your analysis as per the problem statement.
+Maximum question can be formed is 20. 
+
+If you don’t have idea of how to create a Google Form –
+1. https://youtu.be/kq5fGaWVlY0
+
+This analysis aims to –
+1. Collect the primary data
+2. Helps you to build a survey form
+3. Will help you in your analysis from the basics.
+4. Also, to make you understand how real time Data Analysis works.
+5. Find some meaningful isnights from the data and represent in Power Point
+6. How to Submit the assignment will be discussed on the next class.
+7. Submission date - 22nd December, 2024 (Till 12 P.M)
+
+Spend time on preparing your questions properly.
